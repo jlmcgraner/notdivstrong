@@ -1,0 +1,2 @@
+# notdivstrong
+class example
